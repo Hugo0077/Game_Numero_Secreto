@@ -38,6 +38,8 @@ function dicas(chute){
     }
 }
 
+
+
 //função apra gerar numero aleatoriamente
 function gerarRandomNumber(){
     let numeroEscolhido =  parseInt(Math.floor(Math.random()* (limiteNum + 1)));
