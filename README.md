@@ -1,7 +1,7 @@
 <h1>Jogo do número secreto</h1>
 
 <h2>Sobre</h2>
-<p>Projeto de um Mini-jogo de adivinhação</p>
+<p>Projeto de um Mini-jogo de adivinhação de um número  de 1 a 10 escolhido aleatoriamente.</p>
 
 ##Tecnologias
 <div>
